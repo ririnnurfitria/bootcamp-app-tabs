@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">bootcamp-app-tabs</string>
+    <string name="title_activity_main">bootcamp-app-tabs</string>
+    <string name="package_name">id.sch.smkn6malang.bootcamp</string>
+    <string name="custom_url_scheme">id.sch.smkn6malang.bootcamp</string>
+</resources>

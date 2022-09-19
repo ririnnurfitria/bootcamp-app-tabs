@@ -1,0 +1,37 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "beli telor banyak",
+      "category": "1"
+    },
+    {
+      "id": 2,
+      "todo": "beli gula",
+      "category": "1"
+    },
+    {
+      "id": 3,
+      "todo": "cuci motor",
+      "category": "2"
+    },
+    {
+      "todo": "beli minyak kelapa",
+      "category": "1",
+      "id": "4"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "belanja"
+    },
+    {
+      "id": 2,
+      "name": "bersih-bersih"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

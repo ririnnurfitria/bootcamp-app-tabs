@@ -1,0 +1,19 @@
+.show-date
+{
+    color: darkgreen;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+}
+
+.show-icon
+{
+    width: 30px;
+    height: 30px;
+    margin: 0px 10px 0px 0px;
+
+    background-image: url(https://cdn.icon-icons.com/icons2/2415/PNG/512/ionic_original_logo_icon_146462.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
